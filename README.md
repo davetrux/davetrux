@@ -1,6 +1,8 @@
-### Mobile • Develop • Design • Lead • Train • Troubleshoot
+## Mobile • Develop • Design • Lead • Train • Troubleshoot
 
 A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995, working with enterprise web technologies, modeling business processes, and building public web sites and mobile apps for some of the largest companies in North America. Always an enthusiast for troubleshooting systems, Trux has rescued numerous troubled applications and improved their performance. Co-author of the book _Android Best Practices_, he speaks at local conferences and user groups. Currently Trux is working in mobility at Peraton, bringing mobile apps and their supporting systems to the public sector.
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/davetrux)
 
 <!--
 **davetrux/davetrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
