@@ -1,8 +1,9 @@
 ## Develop • DevOps • Lead • Train • Troubleshoot
 
-A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995, working with enterprise web technologies, modeling business processes, and building public web sites and mobile apps for some of the largest companies in North America. Always an enthusiast for troubleshooting systems, Trux has rescued numerous troubled applications and improved their performance. Co-author of the book _Android Best Practices_, he speaks at local conferences and user groups. Currently Trux is working at Graphite Health.
+A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995, working with enterprise web technologies, modeling business processes, and building public web sites and mobile apps for some of the largest companies in North America, as well as focusing on health care data. Always an enthusiast for troubleshooting systems, Trux has rescued numerous troubled applications and improved their performance. Co-author of the book _Android Best Practices_, he speaks at local conferences and user groups.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/davetrux)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/:109685068842614738)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/davetrux)
 <!--
 **davetrux/davetrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
