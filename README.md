@@ -1,4 +1,4 @@
-## Develop • DevOps • Lead • Train • Troubleshoot
+## Develop • Build • Lead • Train • Troubleshoot
 
 A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995, working with enterprise web technologies, modeling business processes, and building public web sites and mobile apps for some of the largest companies in North America, as well as focusing on health care data. Always an enthusiast for troubleshooting systems, Trux has rescued numerous troubled applications and improved their performance. Co-author of the book _Android Best Practices_, he speaks at local conferences and user groups.
 
